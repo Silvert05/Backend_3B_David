@@ -1,0 +1,9 @@
+Post https://127.0.0.1:3000/auth/resgister
+Content-Type: application/json
+
+{
+    "name":"Prueba",
+    "email":"casa@gmail.com",
+    "password":"12"
+
+}
